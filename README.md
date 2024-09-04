@@ -7,7 +7,9 @@ To study and implement Constructors and Destructors.
 Visual Studio Code 
 
 #### Theory 
-Constructors -> A constructor is a member functoin of a class that has the same name as teh class name. <br> 
+Constructors -> A constructor is a member functoin of a class that has the same name as teh class name. <br>  
+It helps to initialize the object of a class. <br> 
+It is called whenever an instance of the class is created. <br> 
 #### Code 
 
 (A) <br> 

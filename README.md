@@ -81,6 +81,10 @@ int main()
 
 (C) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 12(C) 
+
 #include<iostream>
 using namespace std;
 int count=0;

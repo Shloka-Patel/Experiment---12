@@ -7,9 +7,24 @@ To study and implement Constructors and Destructors.
 Visual Studio Code 
 
 #### Theory 
-Constructors -> A constructor is a member functoin of a class that has the same name as teh class name. <br>  
+Constructors: <br>  
+A constructor is a member functoin of a class that has the same name as the class name. <br>  
 It helps to initialize the object of a class. <br> 
 It is called whenever an instance of the class is created. <br> 
+Constructors are mostly declared inthe pulic section of the class though it can be declared  in the private section of the class. <br> 
+Constructors can be overloaed. <br> 
+They can be defined inside or outside the class declaration.<br> 
+They are classified into three types - (1) Default Constructor, (2) Parameterized Constructor and (3) Copy Constructor. <br>  
+
+Destructors: <br> 
+A destructor is also a specialmember function like a constructor. Destructor destroys the class objects created by the constructor. <br> 
+Destructor has the same name as their class name preceded by a tilde (~) symbol. <br> 
+It is not possible to define more than one destructor. <br> 
+Destructor cannot be overloaded. <br>  
+Destructor neither requires any argument nor returns any value. <br> 
+It is automatically called when an object goes out of scope. <br> 
+Destructor release memory space occupied by the objects created by the constructor. Objectsaredestroyedc in the reverse  of an object creation. <br>  
+
 #### Code 
 
 (A) <br> 

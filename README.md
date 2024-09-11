@@ -17,7 +17,7 @@ They can be defined inside or outside the class declaration.<br>
 They are classified into three types - (1) Default Constructor, (2) Parameterized Constructor and (3) Copy Constructor. <br>  
 
 Destructors: <br> 
-A destructor is also a specialmember function like a constructor. Destructor destroys the class objects created by the constructor. <br> 
+A destructor is also a special member function like a constructor. Destructor destroys the class objects created by the constructor. <br> 
 Destructor has the same name as their class name preceded by a tilde (~) symbol. <br> 
 It is not possible to define more than one destructor. <br> 
 Destructor cannot be overloaded. <br>  
